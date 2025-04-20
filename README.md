@@ -54,3 +54,7 @@ I'm passionate about collaborating with like-minded professionals to explore opp
 
 [![Email](https://img.shields.io/badge/yadav.manan24@gmail.com-email_me-red?style=for-the-badge&logo=gmail)](mailto:yadav.manan24@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Let's_connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yadavmanan)
+
+⚠️ IMPORTANT: My repositories are private due to organizational NOC requirements. The commit numbers shown here reflect my actual contributions.
+![image](https://github.com/user-attachments/assets/c28fa311-46de-46e6-b258-8d81579f04fa)
+
